@@ -8,6 +8,6 @@ Key Metrics
 Total Sales: $17.75 Million sales and $2.81M profit.
 
 Features
-Interactive visualizations for easy data exploration Filters and slicers to drill down into specific regions, categories, and time periods #linkedin Profile : 
+Interactive visualizations for easy data exploration Filters and slicers to drill down into specific regions, categories, and time periods #linkedin Profile : https://www.linkedin.com/feed/update/urn:li:ugcPost:7225021926195310593/
 
-post link:
+post link:https://www.linkedin.com/feed/update/urn:li:ugcPost:7225021926195310593/
